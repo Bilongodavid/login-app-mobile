@@ -1,0 +1,1 @@
+export const THEME_COLOR_GREEN='#3F674E'
