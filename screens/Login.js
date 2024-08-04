@@ -20,7 +20,7 @@ const Login = () => {
       <View className="mt-3 w-full flex flex-row ">
         <TouchableOpacity className="h-5 w-5 mr-2 rounded border-2 border-gray-200 justify-center items-center" />
         <View className="flex-1 flex flex-row justify-between items-center">
-          <Text  className="text-slate-400">Remeber me</Text>
+          <Text  className="text-slate-400">Remember me ?</Text>
           <Text className="text-slate-400 text-green-600">
             Forgot password ?
           </Text>
@@ -34,14 +34,14 @@ const Login = () => {
       <TouchableOpacity className="mt-6 bg-white rounded-lg shadow-sm" onPress={() => alert('Button Facebook')}>
       <View className="border border-1 border-gray-100 rounded-md p-3 flex flex-row">
         <Image source={require('../assets/facebook.png')} className="w-5 h-5"></Image>
-        <Text className="mx-10 text-sm">Sign whith Facebook</Text>
+        <Text className="mx-10 text-sm">Sign with Facebook</Text>
       </View>
       </TouchableOpacity>
 
       <TouchableOpacity className="mt-6 bg-white rounded-lg shadow-sm" onPress={() => alert('Button Google')}>
       <View className="border border-1 border-gray-100 rounded-md p-3 flex flex-row">
         <Image source={require('../assets/google.png')} className="w-5 h-5"></Image>
-        <Text className="mx-10 text-sm">Sign whith Google</Text>
+        <Text className="mx-10 text-sm">Sign with Google</Text>
       </View>
       </TouchableOpacity>
       </View>
