@@ -1,15 +1,13 @@
-# Projet Login
+# Login Project
 
 ## Description
 
-Ce projet est une interface de connexion simple développée avec React Native. Il sert de démonstration de mes compétences en développement d'applications mobiles. Le composant `Login` présente une interface utilisateur épurée permettant aux utilisateurs de se connecter via leur adresse e-mail et mot de passe, ainsi que de se connecter avec leurs comptes Facebook et Google.
+This project is a simple login interface developed with React Native. It serves as a demonstration of my skills in mobile application development. The `Login` component features a clean user interface that allows users to log in using their email and password, as well as sign in with their Facebook and Google accounts.
 
+### Preview
 
-### Prévisualisation
-
-Voici une capture d'écran de l'interface utilisateur :
+Here is a screenshot of the user interface:
 
 ![Login Component Preview](assets/login.jpeg)  
 
-Ce projet illustre l'utilisation de composants React Native tels que `TextInput`, `TouchableOpacity`, et `View`, ainsi que la gestion du style avec Tailwind CSS pour React Native.
-
+This project showcases the use of React Native components such as `TextInput`, `TouchableOpacity`, and `View`, as well as styling management with Tailwind CSS for React Native.
